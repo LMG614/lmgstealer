@@ -1,4 +1,4 @@
-# ⚠️ Projeto LMGStealer — Logger Manipulator Ghost Stealer
+# ⚠️ Projeto LMGStealer — Logger Manipulator Ghost
 
 ## 📌 Aviso Legal
 
